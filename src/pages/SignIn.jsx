@@ -87,7 +87,7 @@ const SignIn = () => {
                                 className="bg-white btn btn-neutral btn-outline px-32 hover:bg-gray-900"
                                 onClick={handleSubmit}
                             >
-                                SignIn
+                                Sign In
                             </button>
                         </Card>
                     )}
