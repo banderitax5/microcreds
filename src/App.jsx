@@ -2,7 +2,7 @@ import "./App.css";
 import { Routes, Route, Navigate } from "react-router";
 import Home from "./pages/Home";
 import Register from "./pages/Register";
-import SignIn from "./pages/Signin";
+import SignIn from "../pages/SignIn";
 import Events from "./pages/Events";
 import EventDetail from "./pages/EventDetail";
 import Ticket from "./pages/Ticket";
